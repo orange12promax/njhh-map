@@ -1,6 +1,6 @@
 {
   "name": "njhh-map",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/njhh-map.ssr.js",
   "browser": "dist/njhh-map.esm.js",
